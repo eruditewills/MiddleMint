@@ -1,6 +1,6 @@
-# Summary
+# Table of contents
 
 * [Executive Summary](README.md)
-* [Introduction](docs/installation.md)
-* [Mission & Vision](docs/user-manual.md)
-  * [The Solution: Middlemint](docs/advanced.md)
+* [Introduction](introduction.md)
+* [Mission & Vision](mission-and-vision/README.md)
+  * [The Solution: Middlemint](mission-and-vision/the-solution-middlemint.md)
