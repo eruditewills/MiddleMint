@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Executive Summary](/docs/Executive-Summary.md)
-* [Introduction](docs/introduction.md)
-* [Mission & Vision](docs/mission-&-vision.md)
-  * [The Solution: Middlemint](docs/The-solution:-middlemint.md)
+* [Executive Summary](Executive-Summary.md)
+* [Introduction](introduction.md)
+* [Mission & Vision](Mission-&-Vision.md)
+  * [The Solution: Middlemint](The-solution:-middlemint.md)
