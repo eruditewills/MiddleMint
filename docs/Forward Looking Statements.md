@@ -1,4 +1,4 @@
-# Forward Looking Statements
+# Forward-Looking Statements
 
 This whitepaper may contain projections and plans that involve substantial risks and uncertainties. Actual results or developments may differ materially from those expressed or implied.
 
