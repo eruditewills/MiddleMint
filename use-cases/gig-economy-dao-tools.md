@@ -1,2 +1,0 @@
-# Gig Economy DAO Tools
-

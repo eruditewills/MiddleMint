@@ -1,2 +1,0 @@
-# Peer-to-Peer Hiring
-
