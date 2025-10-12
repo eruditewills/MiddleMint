@@ -4,7 +4,7 @@
 * [Executive Summary](docs/Executive-Summary.md)
 * [Introduction](docs/Introduction.md)
 * [Mission & Vision](docs/Mission-&-Vision.md)
-* [The Solution: Middlemint](docs/The-Solution:-MiddleMint/README.md)
+* [The Solution: Middlemint](docs/The-Solution:-MiddleMint)
   * [How Middlemint Fixes The Broken Payment Flow](docs/How-Middlemint-Fixes-the-Broken-Payment-Flow.md)
 * [Use Cases](docs/Use-Cases.md)
   * [Paying Freelancers & Contributors in DAOs](docs/Paying-Freelancers-&-Contributors-in-DAOs.md)
