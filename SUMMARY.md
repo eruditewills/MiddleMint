@@ -9,7 +9,7 @@
 * [Use Cases](docs/Use-Cases.md)
   * [Paying Freelancers & Contributors in DAOs](docs/Paying-Freelancers-&-Contributors-in-DAOs.md)
   * [Bounties & Microtask Platforms](docs/Bounties-&-Microtask-Platforms.md)
-  * [Peer-to-Peer Hiring](docs/Peer-to-Peer-Hiiring.md)
+  * [Peer-to-Peer Hiring](docs/Peer-to-Peer-Hiring.md)
   * [Community Incentives](docs/Community-Incentives.md)
   * [Gig Economy DAO Tools](docs/Gig-Economy-DAO-Tools.md)
 * [Architecture & Technology](docs/Architecture-&-Technology.md)
