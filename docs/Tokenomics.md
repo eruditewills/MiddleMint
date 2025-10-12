@@ -26,39 +26,15 @@ The breakdown includes vesting details for transparency:
 | In Total | 1,000,000,000 | 100% | | | | 123,670,000 | |
 
 
-<table style="width: 100%; border-collapse: collapse; font-family: 'Segoe UI', sans-serif; font-size: 14px; color: #fff; background-color: #121212;">
-  <thead>
-    <tr>
-      <th colspan="2" style="background-color: #1e1e1e; color: #ffffff; text-align: left; padding: 10px; border: 1px solid #2b2b2b; font-weight: 600;">
-        MarketCap and Presale
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px 12px; border: 1px solid #2b2b2b;">Presale Supply Ratio:</td>
-      <td style="padding: 8px 12px; border: 1px solid #2b2b2b;">5.0%</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px; border: 1px solid #2b2b2b;">Listing Price:</td>
-      <td style="padding: 8px 12px; border: 1px solid #2b2b2b;">$0.0500</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px; border: 1px solid #2b2b2b;">IMC / w/o Liquidity:</td>
-      <td style="padding: 8px 12px; border: 1px solid #2b2b2b;">$683,500</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px; border: 1px solid #2b2b2b;">IMC / w/ Liquidity:</td>
-      <td style="padding: 8px 12px; border: 1px solid #2b2b2b;">$6,183,500</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px; border: 1px solid #2b2b2b;">Fully Diluted Valuation:</td>
-      <td style="padding: 8px 12px; border: 1px solid #2b2b2b;">$50,000,000</td>
-    </tr>
-  </tbody>
-</table>
 
+**MarketCap and Presale**
 
+| Presale Supply Ratio: | 5.0% |
+|------------------------|-------|
+| Listing Price: | $0.0500 |
+| IMC / w/o Liquidity: | $683,500 |
+| IMC / w/ Liquidity: | $6,183,500 |
+| Fully Diluted Valuation: | $50,000,000 |
 
 __Vesting Schedules__
 
