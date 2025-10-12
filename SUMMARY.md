@@ -26,4 +26,4 @@
   * [Smart Contract & Technical Risks](docs/Smart-Contract-&-Technical-Risks.md)
   * [Operational Risks](docs/Operational-Risks.md)
   * [Forward Looking Statements](docs/Forward-Looking-statements.md)
-* [Tokenomics](docs/tokenomics.md)
+* [Tokenomics](docs/Tokenomics.md)
