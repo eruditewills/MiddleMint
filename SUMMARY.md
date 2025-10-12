@@ -1,10 +1,15 @@
-# Table of contents
+---
+cover: .gitbook/assets/WhatsApp Image 2025-10-11 at 22.40.39 (1).jpeg
+coverY: 0
+---
+
+# Table Of Content
 
 * [Table Of Content](SUMMARY.md)
 * [Executive Summary](docs/Executive-Summary.md)
 * [Introduction](docs/Introduction.md)
 * [Mission & Vision](docs/Mission-&-Vision.md)
-* [The Solution: Middlemint](docs/The-Solution:-MiddleMint.md)
+* [The Solution: Middlemint](docs/The-Solution-MiddleMint.md)
   * [How Middlemint Fixes The Broken Payment Flow](docs/How-Middlemint-Fixes-the-Broken-Payment-Flow.md)
 * [Use Cases](docs/Use-Cases.md)
   * [Paying Freelancers & Contributors in DAOs](docs/Paying-Freelancers-&-Contributors-in-DAOs.md)
