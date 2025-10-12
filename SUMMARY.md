@@ -1,10 +1,6 @@
----
-cover: .gitbook/assets/WhatsApp Image 2025-10-11 at 22.40.39 (1).jpeg
-coverY: 0
----
+# Table of contents
 
-# Table Of Content
-
+* [README](README.md)
 * [Table Of Content](SUMMARY.md)
 * [Executive Summary](docs/Executive-Summary.md)
 * [Introduction](docs/Introduction.md)

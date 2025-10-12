@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/WhatsApp Image 2025-10-11 at 22.40.39 (1).jpeg
+coverY: 0
+---
+
 # Executive Summary
 
 ## What is MiddleMint?
@@ -8,7 +13,7 @@ MiddleMint is a Web3-native payment and utility layer designed for the new era o
 
 Today’s online workforce faces fragmented payment rails, high fees, delayed settlements, and limited financial access. MiddleMint solves this by giving global jobbers a fast, low-cost, and trustless way to get paid and spend in the decentralized economy.
 
-__How it works (simple steps)__
+**How it works (simple steps)**
 
 1. Contributors earn – Jobbers complete gigs, bounties, or DAO tasks and receive instant payment in MiddleMint tokens.
 2. Seamless transactions– Tokens can be swapped, held, or used across integrated platforms without middlemen.
