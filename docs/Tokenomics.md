@@ -25,7 +25,7 @@ The breakdown includes vesting details for transparency:
 | Staking & Incentives | 160,000,000 | 16% | 0% | 2 | 48 | 0 | 2.08% |
 | In Total | 1,000,000,000 | 100% | | | | 123,670,000 | |
 
-![Middlemint Tokenomics Image](TokenomicsImage.jpeg)
+![Middlemint Tokenomics Chart](TokenomicsImage.jpeg)
 
 **MarketCap and Presale**
 
